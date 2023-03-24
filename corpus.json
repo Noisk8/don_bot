@@ -3,27 +3,14 @@
     "locale": "es-ES",
     "data": [
         {
-            "intent": "saludos",
-            "utterances": [
-                "hola",
-                "buenos días",
-                "buenas tardes",
-                "bienvenido"
-            ],
-            "answers": [
-                "Hola, bienvenido al  mi bot CV. Hablando conmigo podrás descubrir todos los detalles de mi vida profesional"
-            ]
-        },
-        {
-            "intent": "despedidas",
-            "utterances": [
-                "adios",
-                "nos vemos",
-                "hasta luego",
-                "muchas gracias"
-            ],
-            "answers": [
-                "Adios, espero que nos veamos pronto"
+            "intent": "habilidades",
+      "utterances": [
+        "¿Qué habilidades puedo aprender en Linux?",
+        "¿Qué cosas puedo hacer con Linux?",
+        "¿Cuáles son las habilidades técnicas que puedo aprender en Linux?"
+      ],
+      "answers": [
+        "Linux es un sistema operativo de código abierto que ofrece muchas habilidades técnicas que puedes aprender, entre ellas se incluyen: administración de sistemas, programación en línea de comandos, automatización de tareas, gestión de paquetes, seguridad informática, entre otras. Aprender estas habilidades te permitirá trabajar con servidores, desarrollar software, automatizar tareas y realizar auditorías de seguridad, entre otras cosas."
             ]
         },
         {
